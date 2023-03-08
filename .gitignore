@@ -1,0 +1,39 @@
+# logs
+*.log
+.DS_Store
+
+*.local
+
+# Compiled python
+*.pyc
+
+# IPython notebook checkpoints
+.ipynb_checkpoints
+
+# Editor temporaries
+*.swp
+*~
+
+# data file
+*.npy
+*.zip
+*.tif
+*lmdb
+*leveldb
+*.hdf5
+
+# model checkpoint
+*.pt
+
+
+#image files
+*.tif
+
+#compressed files
+.tar.gz
+
+# pycharm
+.idea
+
+data/
+eval/
